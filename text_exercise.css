@@ -1,0 +1,23 @@
+.first-text {
+    font-family: Montserrat;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 14px;
+}
+.second-text {
+    font-family: Montserrat;
+    text-align: center;
+    color: white;
+    margin-top: 0;
+    transition: 0.15s
+}
+.underline-text:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    color: black;
+}
+p {
+    background-color: blue;
+}
